@@ -13,10 +13,10 @@ TODO:
 
 Install Instructions:
 
-1) Clone the repo on your system.
-2) Go to chrome extensions panel in the browser. chrome://extensions/
-3) Ensure Developer mode is checked.
-4) Click on Load unpacked extension and select the cloned folder.
+1. Clone the repo on your system.
+2. Go to chrome extensions panel in the browser. chrome://extensions/
+3. Ensure Developer mode is checked.
+4. Click on Load unpacked extension and select the cloned folder.
 
 You should now see the NYU Classes Scheduler icon (purple torch) among the extensions.
 Now, navigate to NYU Classes -> Assignments tab, open up an assignment and click the extension.
