@@ -5,7 +5,7 @@ This extension is aimed at pulling assignment details such as course name, assig
 
 Currently this version is built to correctly pull the data from the Assignments tab on NYU classes and show it in popup.
 
-<!-- TODO: -->
 
-<!-- Add to Google calendar functionality -->
-<!-- Modify it to work on other tabs as well such as Quiz and -->
+TODO:
+- [ ] Add to Google calendar functionality
+- [ ] Modify it to work on other tabs as well such as Quiz and Test
